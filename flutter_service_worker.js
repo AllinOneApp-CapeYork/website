@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "39a7c753fd7f76e4a0f9c78bc4f6c5db",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/images/energy-renewables-thumbnail.jpg": "89ca0ec09b806b6a1bc4da7816b52ab0",
 "assets/images/ict-thumbnail.jpg": "c2e89d0428deb077a117562a0ba03849",
 "assets/images/logo_transparent_white.png": "84c61c5fbf14f1ea13404c4d89099e0a",
@@ -17,19 +17,23 @@ const RESOURCES = {
 "assets/images/transport-mobility-thumbnail.jpg": "e18512b0b9e3ffa71c38291ec3f1acc5",
 "assets/images/water-sanitation-thumbnail.jfif": "068ae1904e823408c74e07b5754f2ca2",
 "assets/images/water-sanitation-thumbnail.jpeg": "068ae1904e823408c74e07b5754f2ca2",
-"assets/NOTICES": "db74c3d97801a1ee11c1b0abfdc65248",
+"assets/NOTICES": "d0dad39b30acc9ce73699b9a69dafacb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c37738b66106e5ff6f1883b638e2380e",
-"/": "c37738b66106e5ff6f1883b638e2380e",
-"main.dart.js": "df9d7a831aa2b7d704a42cf4ee09aadb",
+"index.html": "6ef9328b9a7d6d53506c002d1b66ea69",
+"/": "6ef9328b9a7d6d53506c002d1b66ea69",
+"main.dart.js": "24648593327eff6a8eac86c95bac3be5",
 "manifest.json": "f6fa99788e0a503307112052c44d7487",
-"version.json": "6eb1f04ad4a4a8aa142d137c164dde5e"
+"version.json": "88634f5b018d7043569b131307736191"
 };
 
 // The application shell files that are downloaded before a service worker can
