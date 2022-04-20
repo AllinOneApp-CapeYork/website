@@ -1,21 +1,21 @@
 {
-    "name": "all_in_one_app",
-    "short_name": "all_in_one_app",
-    "start_url": ".",
+    "name": "All-in-One App",
+    "short_name": "All-in-One App",
+    "start_url": "./website/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "The All-in-One App to empower Aboriginal and Torres Strait Islander People living on Cape York Peninsula.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/Logo_v1_white_bg.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/Logo_v1_white_bg.png",
             "sizes": "512x512",
             "type": "image/png"
         }
